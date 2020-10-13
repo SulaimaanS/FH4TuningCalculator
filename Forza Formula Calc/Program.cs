@@ -129,7 +129,6 @@ class Program
                     D1.RearReboundStiffness();
                     D1.FrontBumpStiffness();
                     D1.RearBumpStiffness();
-                    D1.RearSpringStiffness();
                     Console.WriteLine("\nPress any key to return to the menu");
                     Console.ReadKey();
                     break;
